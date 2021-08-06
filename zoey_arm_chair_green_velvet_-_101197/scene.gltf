@@ -1,0 +1,439 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7298,
+      "max": [
+        310.3834228515625,
+        368.34063720703125,
+        790.80963134765625
+      ],
+      "min": [
+        -349.04217529296875,
+        -305.08001708984375,
+        66.140853881835938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87576,
+      "componentType": 5126,
+      "count": 7298,
+      "max": [
+        0.99897950887680054,
+        0.99995571374893188,
+        1
+      ],
+      "min": [
+        -0.99991929531097412,
+        -0.99999749660491943,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7298,
+      "max": [
+        0.9999997615814209,
+        0.99982309341430664,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99995970726013184,
+        -0.99999195337295532,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7298,
+      "max": [
+        1.0019509792327881,
+        1
+      ],
+      "min": [
+        -2.7772039175033569e-05,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 41160,
+      "max": [
+        7297
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 175152,
+      "componentType": 5126,
+      "count": 1605,
+      "max": [
+        245.28848266601562,
+        245.27395629882812,
+        50.000007629394531
+      ],
+      "min": [
+        -245.28849792480469,
+        -245.27397155761719,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 194412,
+      "componentType": 5126,
+      "count": 1605,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 116768,
+      "componentType": 5126,
+      "count": 1605,
+      "max": [
+        1,
+        1,
+        0.41098523139953613,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.40634942054748535,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58384,
+      "componentType": 5126,
+      "count": 1605,
+      "max": [
+        1.0277777910232544,
+        1
+      ],
+      "min": [
+        0.017686957493424416,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 164640,
+      "componentType": 5125,
+      "count": 9504,
+      "max": [
+        1604
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Zuo Modern (https://sketchfab.com/zuo)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/models/1ee0ee0244a64051a7d133b37c99d6ad",
+      "title": "Zoey Arm Chair Green Velvet - 101197"
+    },
+    "generator": "Sketchfab-3.35.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 202656,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71224,
+      "byteOffset": 202656,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 213672,
+      "byteOffset": 273880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 142448,
+      "byteOffset": 487552,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 630000,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/101197_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "101197",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.73951981710000003,
+          0.73951981710000003,
+          0.73951981710000003,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.65415396339999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "01_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.81036995099999998,
+          0.6193116997,
+          0.29657405590000002,
+          1
+        ],
+        "metallicFactor": 0.97732469509999997,
+        "roughnessFactor": 0.58708079270000002
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder001_101197_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder002_01 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "dd3d6701ab8445f5ab0102553e9db36d.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        439.9091796875,
+        396.2381591796875,
+        -15.097900390625,
+        1
+      ],
+      "name": "101197"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.81175019019720562,
+        0.72743501529700372,
+        3.7290414377134596e-49,
+        0,
+        -0.66336725612849268,
+        0.74025649715671638,
+        -6.1629758220391561e-33,
+        0,
+        -4.2826452418463437e-33,
+        4.7790359503062076e-33,
+        1.0349998474121094,
+        0,
+        30.57440185546875,
+        -24.225296020507812,
+        -422.24969482421875,
+        1
+      ],
+      "name": "Cylinder001"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder001_101197_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -0.85956916085393487,
+        0.53032167525702512,
+        0,
+        0,
+        -0.52507090858530847,
+        -0.85105848268929107,
+        0,
+        0,
+        0,
+        0,
+        1.0349999666213989,
+        0,
+        34.66192626953125,
+        -27.655582427978516,
+        -396.23818969726562,
+        1
+      ],
+      "name": "Cylinder002"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder002_01 - Default_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
