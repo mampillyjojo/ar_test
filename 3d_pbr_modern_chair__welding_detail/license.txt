@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D PBR Modern Chair / Welding detail
+* source:	https://sketchfab.com/3d-models/3d-pbr-modern-chair-welding-detail-5a823cfa3ca2432fbe719503425086bb
+* author:	Mustafa Özgen (https://sketchfab.com/mustafaozgen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D PBR Modern Chair / Welding detail" (https://sketchfab.com/3d-models/3d-pbr-modern-chair-welding-detail-5a823cfa3ca2432fbe719503425086bb) by Mustafa Özgen (https://sketchfab.com/mustafaozgen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
