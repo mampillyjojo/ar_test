@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arm chair
+* source:	https://sketchfab.com/3d-models/arm-chair-3623e110f9bb43f485cc805bb42e97ad
+* author:	truong365 (https://sketchfab.com/truong365)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arm chair" (https://sketchfab.com/3d-models/arm-chair-3623e110f9bb43f485cc805bb42e97ad) by truong365 (https://sketchfab.com/truong365) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
